@@ -6,6 +6,10 @@
          The Potato Disease Classification Model is designed to classify different diseases that affect potato crops. 
          It is a deep learning model built using TensorFlow and Keras, trained on a dataset of labeled potato images.
     </p>
+    <br>
+
+    
+<img align="center" alt="potato" src="https://cgctnews.com/wp-content/uploads/2022/05/ezgif-1-4a7eaa951f.gif">
 
    <h2 class="section-title">🌐Model Architecture</h2>
     <p class="section-content">
@@ -13,6 +17,7 @@
             These layers are responsible for extracting features from input images and making predictions based on those features. 
             The architecture is as follows:
     </p>
+    <br>
     
 ![m_arc1](https://github.com/saisujay7794/potato-disease-classifier/assets/84466055/ac08915c-999b-4271-bdbb-bafa03b4788b)
    <br>
